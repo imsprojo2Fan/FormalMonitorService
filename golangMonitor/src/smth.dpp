@@ -1,0 +1,1 @@
+smth.o: ../../src/smth.cpp ../../src/CapPicture.h

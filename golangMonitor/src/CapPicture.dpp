@@ -1,0 +1,2 @@
+CapPicture.o: ../../src/CapPicture.cpp ../../src/../include/Sdk.h \
+ ../../src/CapPicture.h
